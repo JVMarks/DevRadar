@@ -10,7 +10,7 @@
     "axios": "^1.15.2",
     "cors": "^2.8.5",
     "express": "^4.20.0",
-    "mongoose": "^8.22.1",
+    "mongoose": "^8.24.1",
     "nodemon": "^2.0.2",
     "socket.io": "^2.5.0"
   }
